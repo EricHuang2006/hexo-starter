@@ -101,5 +101,11 @@ theme: landscape
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
+# 作者： Zrn Ye @為了夢想、永不停歇
+# 文章連結： https://zrn-code.github.io/2020/11/22/hexo/
+# 版權聲明： 本站所有文章除特別聲明外，均採用 (CC)BY-NC-SA 許可協議。轉載請註明出處！
+
 deploy:
-  type: ''
+  type: git
+  repo: https://github.com/EricHuang2006/EricHuang2005.github.io
+  branch: master
